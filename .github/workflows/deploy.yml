@@ -5,11 +5,7 @@ on:
       - deploy
 
 env:
-
-  # alphanumeric string under 14 characters
   RESOURCE_GROUP_NAME: test-azd-rg
-
-  # specify your preferred region
   REGION: westeurope
 
 permissions:
